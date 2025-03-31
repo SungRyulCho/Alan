@@ -4,7 +4,7 @@ new TypeIt(".home__title__strong", {
   loop: true,
   speed: 100,
 }) // Dream Coder|
-  .move(-11)
+  .move(-12)
   .type("Amazing ")
   .pause(1000)
   .move(null, { to: "END" })
